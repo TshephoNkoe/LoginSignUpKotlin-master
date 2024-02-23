@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593270765858",
+    "project_id": "gps-navigation-700c9",
+    "storage_bucket": "gps-navigation-700c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593270765858:android:6adda6d6fa1382ff184d7b",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593270765858-q1gi8972bg8vrkltf76qbos9gjloh69r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvsXD0T8WFrlLAF5W3VbT5WrfejOj7cJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593270765858-q1gi8972bg8vrkltf76qbos9gjloh69r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
